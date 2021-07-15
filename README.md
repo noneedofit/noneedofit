@@ -6,4 +6,4 @@
 
 <h2 align=center>💬Reach me at</h2>
 
-```You can mail me at notsodhruv@gmail.com for enquiries or find me at discord: `noneedofit#2226`.```
+```You can mail me at mail@dhruvg.codes for enquiries or find me at discord: `noneedofit#2226`.```
