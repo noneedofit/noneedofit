@@ -6,4 +6,4 @@
 
 <h2 align=center>💬Reach me at</h2>
 
-You can mail me at mail@dhruvg.codes for enquiries or [find me at discord](https://discord.com/users/750304140776833065).
+<p align=center>You can mail me at mail@dhruvg.codes for enquiries or [find me at discord](https://discord.com/users/750304140776833065).</p>
