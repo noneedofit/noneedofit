@@ -3,7 +3,7 @@
 - Currently I am working [on a discord.js bot application.](https://melody-bot.tech)
 - To view my latest project [click here.](https://github.com/melody-bot/Melody)
 - I am learning web development and python, good enough at js.
-- Complimentary site: ```https://dhruvg.codes```
+- Website: **https://dhruvg.codes**
 
 <h2 align=center>💬Reach me at</h2>
 
