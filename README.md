@@ -5,6 +5,6 @@
 - I am learning web development and python, good enough at js.
 - Website: **https://dhruvg.codes**
 
-<h2 align=center>💬Reach me at</h2>
+<h2 align=center>💬 Reach me at:</h2>
 
 - You can mail me at mail@dhruvg.codes for enquiries or [find me at discord](https://discord.com/users/750304140776833065).
