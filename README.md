@@ -1,4 +1,4 @@
-<h2 align=center>:wave:Hey! I'm Dhruv </h2>
+<h2 align=center>:wave: Hey! I'm Dhruv </h2>
 
 - Currently I am working [on a discord.js microservice.](https://melody-bot.tech)
 - To view my latest project [click here.](https://github.com/melody-bot/Melody)
